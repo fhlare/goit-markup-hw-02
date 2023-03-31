@@ -149,7 +149,7 @@ font-family: var(--primary-font);
 
 /* OUR TEAM */
 .our-team-section{
-  background: #F4F4FD;
+  background-color: #F4F4FD;
 }
 
 .our-team-title{
@@ -179,7 +179,7 @@ font-family: var(--primary-font);
 
 /* FOOTER */
 .page-footer{
-  background: #2E2F42;
+  background-color: #2E2F42;
 }
 
 .footer-information{
